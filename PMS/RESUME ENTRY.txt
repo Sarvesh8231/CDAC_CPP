@@ -1,0 +1,89 @@
+sPERSONAL INFORMATION
+
+1. NAME : PATIL SARVESH PRASHANT
+2. PRIMARY EMAIL : sarveshpatil4004@gmail.com
+3. SEC EMAIL : sarveshpatil456@gmail.com
+4. CCPP ID : WILL BE ALOTED AFTER CCEE RESULTS
+5. DOB : 21/05/2001
+6. CORRE. ADDRESS: Flat Number 4 , 2nd Floor Nirzar Apartment Kothrud Pune 411038
+7. PERMANENT ADD: Housing Society Near Supari Hanuman Mandir Ambajogai ,Dist Beed 431517
+8. NATIONALITY : Indian
+9. GENDER : Male
+10. EXTRA CURR ACTIVITIES : SPORTS/ARTS ETC
+11. LANGUAGES : ENGLISH, HINDI, MARATHI
+
+ACADEMIC DETAILS:
+1. 10TH : 10TH 
+2.SPECIALIZATION : GENERAL
+3. INSTITUTE: YOGESHWARI NUTAN VIDYALAYA AMBAJOGAI
+4. BOARD : SSC
+5. GRADE : I WITH DISTENSION
+6. OBTAINED MARKS :430
+7. TOTAL MARKS:500
+8. YEAR OF PASSING : MARCH - 2017
+
+ACADEMIC DETAILS:
+1. 12TH : 12TH
+2.SPECIALIZATION : SCIENCE
+3. INSTITUTE: YOGESHWARI MAHAVIDYALAYA AMBAJOGAI
+4. BOARD : HSC
+5. GRADE : I
+6. OBTAINED MARKS :439
+7. TOTAL MARKS:650
+8. YEAR OF PASSING : FEB - 19
+
+GRADUATION DETAILS
+1. GRADUATION
+2. STREAM :ENG
+3. QUALIFICATION: 
+4. SPECIALIZATION: INSTRUMENTATION AND CONTROL 
+5. UNIVERSITY : SPPU 
+
+8. GRADE/DIVISION : REF. TO YOUR DIP/DEGREE CERTIFICATE
+9.COURSE DURATION: 4 YEARS
+10. YEAR OF ADMISSION: 2019
+11. YEAR OF PASSING : 2023
+12. ENTER MARKS : EITHER SEM / YEAR TOTAL MARKS AND OBTAINED MARKS
+Note: Please convert your CGPA or Grading to marks according to respective university formulae.
+
+
+2019-20	First Year	I	10	7.43	66.8
+2019-20	First Year	II	10	7.76	70.1
+
+2020-21	Second Year	I	10	7.61	68.6
+2020-21	Second Year	II	10	7.71	69.6
+
+2021-22	Third Year	I	10	7.78	70.3
+2021-22	Third Year	II	10	7.77	70.2
+
+2022-23	Fourth Year	I	10	7.87	71.2
+2022-23	Fourth Year	II	10	7.9	71.5
+
+
+
+ACADEMIC PROJECTS:
+1. SELECT QUALIFICATION: COLLEGE PROJECT
+2. DURATION : 4 MONTH FOR PG DAC 
+3. GIT REPOSITORY : LINK MANDATORY
+4. PROJECT DESCRIPTION : The Shop Management System is a desktop/web-based application designed to simplify and automate daily shop operations. The project solves the problem of manually managing stock, maintaining product lists, and generating customer bills, which often leads to errors and time consumption. The system allows shop owners to add, update, and delete product details while tracking available stock in real time. It automatically alerts the admin when stock levels are low.
+5. PROJECT TITLE : SHOP MANAGEMENT SYSTEM
+6. PLATFORM USED : HTML, CSS, JavaScript ,MySQL
+
+
+ACADEMIC PROJECTS:
+1. SELECT QUALIFICATION: PG DAC 
+2. DURATION : 1 MONTH FOR PG DAC 
+3. GIT REPOSITORY : https://github.com/jyoti-yadav7066/Flight-Booking
+4. PROJECT DESCRIPTION : The Flight Booking Web Application is a user-friendly platform that simplifies searching, comparing, and booking domestic or international flights by allowing users to enter travel details and instantly view available options with schedules, prices, airlines, duration, and seat availability. It offers secure login and registration, along with a seat selection module that lets users choose preferred seats before booking. After confirmation, the system generates a digital ticket containing a unique booking ID, passenger details, and payment information.
+5. PROJECT TITLE : FLIGHT TICKET BOOKING WEB APPLICATION
+6. PLATFORM USED :HTML, CSS, JavaScript, Bootstrap, Java, .NET, Node.js, MySQL, REST APIs, GitHub
+
+
+
+OTHER INFORMATION:
+1. AADHAR NUMBER : 361867637279
+2. PASSPORT NO. : 
+3. RELIGION : HINDU OPEN
+4. CAST : BRAHMIN
+7.EXTRA CURRICULAR : SPROTS/ARTS
+8. HOBBIES : COOKING , PLAYING GUITAR
